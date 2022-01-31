@@ -1,4 +1,4 @@
-<h1> ENGI301: Intro to Practical EE </h1>
+<h1> ENGI301 </h1>
 Repository for ENGI301 work
 
 <!---
