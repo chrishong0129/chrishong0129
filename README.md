@@ -1,5 +1,5 @@
-<h1> ENGI301 </h1>
-Repository for ENGI301 work
+<h1> Projects </h1>
+Repository for Personal Projects!
 
 <!---
 chrishong0129/chrishong0129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
